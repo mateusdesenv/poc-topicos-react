@@ -50,4 +50,3 @@ src/
 - Os componentes de tópico carregam apenas o conteúdo específico: título, explicação, comparação com Angular e exemplo de código.
 
 Esse padrão separa navegação, layout reutilizável e conteúdo específico, que é uma forma limpa de enxergar componentização em React.
-# poc-topicos-react
